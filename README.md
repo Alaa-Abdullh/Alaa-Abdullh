@@ -56,7 +56,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562"  />
+<img align="right" height="211" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=ecf05e47su4v58dvo2u99d9w5ke77w0l2qs34x3fhj0q2qef&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -66,6 +66,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Alaa-Abdullh/Alaa-Abdullh/output/imgurl_https___profile-readme-generator.com_assets_snake.svg - Search.mhtml" alt="Snake animation" />
+<br clear="both">
+
+<img src="../../../New folder/Alaa-Abdullh/output/imgurl_https___profile-readme-generator.com_assets_snake.svg - Search.mhtml" alt="Snake animation" />
 
 ###
