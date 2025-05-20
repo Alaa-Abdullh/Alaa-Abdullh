@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Alaa Abdullh<br>I'm a Software Engineer Developer</h2>
+<h2 align="center">Hi 👋! My name is Alaa Abdullh<br>I'm a Software Engineer</h2>
 
 # 💫 About Me:
 🔭 I’m currently working on **building scalable full-stack web applications and improving my backend skills with Node.js and Express.**  <br>👯 I’m looking to collaborate on **open source projects involving React and machine learning.**  <br>🤝 I’m looking for help with **advanced system design concepts and cloud deployment best practices.**  <br>🌱 I’m currently learning **Docker, Kubernetes, and enhancing my knowledge in microservices architecture.**  <br>💬 Ask me about **JavaScript frameworks, database design, and applying machine learning in web apps.**  <br>⚡ Fun fact: **I love solving algorithm challenges and building creative side projects in my free time!**  
