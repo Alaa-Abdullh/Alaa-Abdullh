@@ -4,9 +4,9 @@
 🔭 I’m currently working on **building scalable full-stack web applications and improving my backend skills with Node.js and Express.**  <br>👯 I’m looking to collaborate on **open source projects involving React and machine learning.**  <br>🤝 I’m looking for help with **advanced system design concepts and cloud deployment best practices.**  <br>🌱 I’m currently learning **Docker, Kubernetes, and enhancing my knowledge in microservices architecture.**  <br>💬 Ask me about **JavaScript frameworks, database design, and applying machine learning in web apps.**  <br>⚡ Fun fact: **I love solving algorithm challenges and building creative side projects in my free time!**  
 
 
-
-
-<img align="right" height="211" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=ecf05e47su4v58dvo2u99d9w5ke77w0l2qs34x3fhj0q2qef&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="250" />
+</p>
 
 
 ## 🌐 Socials:
