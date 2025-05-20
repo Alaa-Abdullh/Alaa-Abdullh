@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Alaa-Abdullh/Alaa-Abdullh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Alaa-Abdullh/Alaa-Abdullh/output/imgurl_https___profile-readme-generator.com_assets_snake.svg - Search.mhtml" alt="Snake animation" />
 
 ###
